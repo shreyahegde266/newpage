@@ -1,0 +1,310 @@
+body {
+    background-color: #052429;
+    background-size: cover;
+
+}
+.final-resp-low {
+    background-color: #052429;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .final-resp-low .blog-final-resp-low {
+    background-color: #052429;
+    width: 1280px;
+    height: 2443px;
+    position: relative;
+  }
+  
+  .final-resp-low .overlap {
+    position: absolute;
+    width: 1196px;
+    height: 779px;
+    top: 0;
+    left: 84px;
+  }
+  
+  .final-resp-low .c {
+    position: absolute;
+    width: 1182px;
+    height: 725px;
+    top: 0;
+    left: 14px;
+  }
+  
+  .final-resp-low .group {
+    position: absolute;
+    width: 1112px;
+    height: 67px;
+    top: 64px;
+    left: 0;
+    background-color: #05242a;
+    border-radius: 50px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #ffffff8a;
+  }
+  
+  .final-resp-low .IMAGE {
+    position: absolute;
+    width: 150px;
+    height: 45px;
+    top: 11px;
+    left: 74px;
+    object-fit: cover;
+  }
+  
+  .final-resp-low .overlap-group-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 78px;
+    top: 283px;
+    left: 72px;
+  }
+  
+  .final-resp-low .overlap-group {
+    position: relative;
+    height: 78px;
+  }
+  
+  .final-resp-low .ellipse {
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    top: 0;
+    left: 0;
+    background-color: #4dae14;
+    border-radius: 39px;
+  }
+  
+  .final-resp-low .frame {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px 10px;
+    padding: 10px;
+    position: absolute;
+    top: 10px;
+    left: 35px;
+  }
+  
+  .final-resp-low .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Segoe UI-Semibold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .final-resp-low .rectangle {
+    position: absolute;
+    width: 1086px;
+    height: 380px;
+    top: 399px;
+    left: 17px;
+    object-fit: cover;
+  }
+  
+  .final-resp-low .overlap-wrapper {
+    position: absolute;
+    width: 1096px;
+    height: 39px;
+    top: 187px;
+    left: 9px;
+  }
+  
+  .final-resp-low .div {
+    position: relative;
+    width: 1094px;
+    height: 39px;
+  }
+  
+  .final-resp-low .p {
+    position: absolute;
+    width: 365px;
+    top: 0;
+    left: 5px;
+    font-family: "Segoe UI-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .final-resp-low .line-wrapper {
+    position: absolute;
+    width: 1094px;
+    height: 1px;
+    top: 38px;
+    left: 0;
+    padding-bottom: 20px;
+  }
+  
+  .final-resp-low .line {
+    position: absolute;
+    width: 1094px;
+    height: 3px;
+    top: -3px;
+    left: 0;
+  }
+  
+  .final-resp-low .frame-wrapper {
+    position: absolute;
+    width: 1087px;
+    height: 737px;
+    top: 806px;
+    left: 99px;
+  }
+  
+  .final-resp-low .frame-2 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1087px;
+    height: 737px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    position: relative;
+  }
+  
+  .final-resp-low .text-wrapper-2 {
+    position: relative;
+    width: 365px;
+    height: 39px;
+    margin-top: -1px;
+    font-family: "Segoe UI-Semibold", Helvetica;
+    font-weight: 400;
+    color: #ffffffb8;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .final-resp-low .the-pune-municipal {
+    position: relative;
+    width: 1087px;
+    height: 349px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: 30.7px;
+  }
+  
+  .final-resp-low .group-2 {
+    position: absolute;
+    width: 340px;
+    height: 248px;
+    top: 1693px;
+    left: 94px;
+  }
+  
+  .final-resp-low .img {
+    position: absolute;
+    width: 337px;
+    height: 161px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .final-resp-low .text-wrapper-3 {
+    position: absolute;
+    width: 338px;
+    top: 170px;
+    left: 0;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .final-resp-low .group-3 {
+    position: absolute;
+    width: 340px;
+    height: 248px;
+    top: 1693px;
+    left: 471px;
+  }
+  
+  .final-resp-low .overlap-2 {
+    position: absolute;
+    width: 387px;
+    height: 248px;
+    top: 1693px;
+    left: 850px;
+  }
+  
+  .final-resp-low .group-4 {
+    position: absolute;
+    width: 340px;
+    height: 248px;
+    top: 0;
+    left: 0;
+  }
+  
+  .final-resp-low .iconamoon-arrow-up {
+    position: absolute;
+    width: 49px;
+    height: 58px;
+    top: 52px;
+    left: 338px;
+    object-fit: cover;
+  }
+  
+  .final-resp-low .div-wrapper {
+    position: absolute;
+    width: 1096px;
+    height: 47px;
+    top: 1590px;
+    left: 94px;
+    padding-top: 50px;
+  }
+  
+  .final-resp-low .overlap-3 {
+    position: relative;
+    width: 1094px;
+    height: 47px;
+  }
+  
+  .final-resp-low .group-5 {
+    position: absolute;
+    width: 1094px;
+    height: 43px;
+    top: 4px;
+    left: 0;
+  }
+  
+  .final-resp-low .text-wrapper-4 {
+    position: absolute;
+    width: 230px;
+    top: 0;
+    left: 10px;
+    font-family: "Segoe UI-Semibold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .final-resp-low .image {
+    position: absolute;
+    width: 1280px;
+    height: 489px;
+    top: 1954px;
+    left: 0;
+    object-fit: cover;
+  }
+  
